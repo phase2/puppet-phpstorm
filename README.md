@@ -5,7 +5,7 @@ A PHPStorm module for Boxen, you guys!!!
 ## Usage
 
 ```puppet
-include rubymine
+include phpstorm
 ```
 
 ## Required Puppet Modules
