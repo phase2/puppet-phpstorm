@@ -3,6 +3,6 @@ class phpstorm (
 ) {
   package { 'PhpStorm':
     provider => 'appdmg',
-    source   => "http://download.jetbrains.com/webide/PhpStorm-#{version}.dmg",
+    source   => "http://download.jetbrains.com/webide/PhpStorm-${version}.dmg",
   }
 }
